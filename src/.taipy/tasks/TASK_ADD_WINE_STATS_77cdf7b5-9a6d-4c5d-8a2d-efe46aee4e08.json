@@ -1,0 +1,19 @@
+{
+"id": "TASK_ADD_WINE_STATS_77cdf7b5-9a6d-4c5d-8a2d-efe46aee4e08",
+"owner_id": "SCENARIO_SC_WINE_e961a192-4e0c-4017-9ac5-1594cddf7866",
+"parent_ids": [
+"SCENARIO_SC_WINE_e961a192-4e0c-4017-9ac5-1594cddf7866"
+],
+"config_id": "ADD_WINE_STATS",
+"input_ids": [
+"DATANODE_WINE_PRODUCTION_9bbb630a-692a-4e40-af92-dc92b0f1e942"
+],
+"function_name": "add_basic_stats",
+"function_module": "config.functions",
+"output_ids": [
+"DATANODE_WINE_PRODUCTION_WITH_STATS_4aebd5e5-6169-44a5-8194-de2d89fa93bd"
+],
+"version": "b93fd214-d1ea-484c-9558-947f5c3d7043",
+"skippable": false,
+"properties": {}
+}

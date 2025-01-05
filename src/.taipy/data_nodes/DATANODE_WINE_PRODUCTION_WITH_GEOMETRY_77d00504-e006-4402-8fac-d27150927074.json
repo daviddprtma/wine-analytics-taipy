@@ -1,0 +1,27 @@
+{
+"id": "DATANODE_WINE_PRODUCTION_WITH_GEOMETRY_77d00504-e006-4402-8fac-d27150927074",
+"config_id": "WINE_PRODUCTION_WITH_GEOMETRY",
+"scope": "<Scope.SCENARIO: 1>",
+"storage_type": "pickle",
+"owner_id": "SCENARIO_SC_WINE_e961a192-4e0c-4017-9ac5-1594cddf7866",
+"parent_ids": [
+"TASK_ADD_GEOMETRY_5bef4940-4b4b-48ee-9832-554f6d31430a"
+],
+"last_edit_date": "2025-01-05T19:32:21.832311",
+"edits": [
+{
+"job_id": "JOB_ADD_GEOMETRY_0c748979-0d82-45eb-8647-49e219f960b5",
+"timestamp": "2025-01-05T19:32:21.832311"
+}
+],
+"version": "b93fd214-d1ea-484c-9558-947f5c3d7043",
+"validity_days": null,
+"validity_seconds": null,
+"edit_in_progress": false,
+"editor_id": null,
+"editor_expiration_date": null,
+"data_node_properties": {
+"is_generated": true,
+"path": "user_data\\pickles\\DATANODE_WINE_PRODUCTION_WITH_GEOMETRY_77d00504-e006-4402-8fac-d27150927074.p"
+}
+}

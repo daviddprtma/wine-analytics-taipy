@@ -1,0 +1,28 @@
+{
+"id": "DATANODE_GEOMETRY_3fa8b5cf-12e4-44f6-9cf4-e6514214899c",
+"config_id": "GEOMETRY",
+"scope": "<Scope.SCENARIO: 1>",
+"storage_type": "json",
+"owner_id": "SCENARIO_SC_WINE_e961a192-4e0c-4017-9ac5-1594cddf7866",
+"parent_ids": [
+"TASK_ADD_GEOMETRY_5bef4940-4b4b-48ee-9832-554f6d31430a"
+],
+"last_edit_date": "2025-01-05T19:32:20.888338",
+"edits": [],
+"version": "b93fd214-d1ea-484c-9558-947f5c3d7043",
+"validity_days": null,
+"validity_seconds": null,
+"edit_in_progress": false,
+"editor_id": null,
+"editor_expiration_date": null,
+"data_node_properties": {
+"default_path": "data/french_wine_bassin_centroids.geojson",
+"encoding": "utf-8",
+"is_generated": false,
+"path": "data/french_wine_bassin_centroids.geojson",
+"encoder_name": null,
+"encoder_module": null,
+"decoder_name": null,
+"decoder_module": null
+}
+}
