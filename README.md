@@ -1,27 +1,21 @@
 
 <br/>
 <div align="center">
-
 <h3 align="center">Wine Analytics Taipy</h3>
 <p align="center">
 A demonstration for wine analytics across French regions with the interactive simple GUI dashboard🤩
-
-
-  
-
-
 </p>
+  <img src="https://github.com/daviddprtma/wine-analytics-taipy/blob/c255122b5f61c7e1b317cb750a8f8c30379cfc3c/images/wine_app.gif"/>
 </div>
 
 ## About The Project
-
 Why Wine Analytics Taipy✅?
 
 Welcome to Wine French Analytics Dashboard🤖, a demonstration wine analytics project to showcase the distribution of the wine across the French nation.
 
 This dashboard allows you to explore wine production data for various French wine from regions, providing insights into production statistics, geographical distribution, and many more.
 
-Features⬇️
+## Features⬇️
 
 Multi-Page Dashboard: Navigate through different pages to explore diverse aspects of wine production data.
 
