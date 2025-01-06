@@ -27,4 +27,6 @@ if __name__ == "__main__":
         title="Wine Analytics 🍷 production by Region and Year",
         dark_mode=False,
         stylekit=stylekit,
+        host="0.0.0.0",
+        port="10000"
     )
